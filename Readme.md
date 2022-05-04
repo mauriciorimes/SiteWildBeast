@@ -1,0 +1,1 @@
+Site totalmente responsivo, com uso de HTML e CSS.
